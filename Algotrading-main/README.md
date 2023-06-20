@@ -3,7 +3,7 @@ This is a support-vector machine based algotrading model which trains on a OHLCV
 
 # Background
 
-Algorithmic trading is the use of automated trade orders, usually driven by machine learning models. By relying on robust 
+Algorithmic trading is the use of automated trade orders, usually driven by machine learning models. While manual user-driven trading performance is limited by human-level judgement and human-delay, algorithmic trading software operates at a much lower latency and is data-driven, resulting in trades guided by historical performance.
 
 
 
