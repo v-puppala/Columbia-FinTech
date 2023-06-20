@@ -1,6 +1,14 @@
 # Algotrading
 This is a support-vector machine based algotrading model which trains on a OHLCV dataset.
 
+# Background
+
+Algorithmic trading is the use of automated trade orders, usually driven by machine learning models. By relying on robust 
+
+
+
+# Performance
+
 **3 Month SVC Classifier**
 
 Initially, I trained the support vector machine on the 3 month period from April 2nd 2015 to July 2nd 2015. 
